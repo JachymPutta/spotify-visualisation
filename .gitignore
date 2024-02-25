@@ -1,6 +1,10 @@
 # Dataset
 data/*
 
+# Environment + MacOS nonsense
+.env
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
